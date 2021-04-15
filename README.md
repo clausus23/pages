@@ -33,4 +33,4 @@ else:
 - Ski
 - **Freunde treffen**
 
-[Image](https://user-images.githubusercontent.com/82509399/114862860-54c6ee80-9def-11eb-83bc-847d7ce32aa8.png)
+![Image](https://user-images.githubusercontent.com/82509399/114862860-54c6ee80-9def-11eb-83bc-847d7ce32aa8.png)
