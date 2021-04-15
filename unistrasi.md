@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Meine Zeit an der UniStraSi"
+title: "UniStraSi"
 permalink: /italy/unistrasi/
 ---
 
