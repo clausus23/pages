@@ -1,5 +1,5 @@
 layout: page
 title: "Italia"
-permalink: /italy/
+permalink: /pages/italy/
 
 Italien Erlebnisse.
