@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Willkommen
 
-You can use the [editor on GitHub](https://github.com/stu230485/pages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Dies ist meine erste Website. Hier werde ich vorerst nur Tests durchführen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Veröffentlichung von Code
 
 ```markdown
-Syntax highlighted code block
+Python
 
-# Header 1
-## Header 2
-### Header 3
+# Hello World:
+`print("Hello World!")`
 
-- Bulleted
-- List
+# Gerade Zahl:
+`x = int(input("Zahl: "))
+while x > 1:
+  x = x % 2
+if x == 1:
+  print("Ungerade")
+else:
+  print("Gerade")`
 
-1. Numbered
-2. List
+- % = Modulo-Operator
 
-**Bold** and _Italic_ and `Code` text
+## Werdegang:
+1. Abitur am [Gymnasium Buckhorn](https://www.buckhorn.de/)
+2. Studium an der CAU zu Kiel
 
-[Link](url) and ![Image](src)
-```
+### Persönliche Interessen:
+- Rock'n'Roll
+- Ski
+- **Freunde treffen**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stu230485/pages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[grafik](https://user-images.githubusercontent.com/82509399/114862860-54c6ee80-9def-11eb-83bc-847d7ce32aa8.png)
