@@ -3,7 +3,7 @@
 Dies ist meine erste Website. Hier werde ich vorerst nur Tests durchführen.
 
 [Italien](/italy.md)
-[Posts](/pages/_posts/index.md)
+[Posts](/_posts/index.md)
 
 ## Veröffentlichung von Code
 
