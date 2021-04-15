@@ -2,7 +2,7 @@
 
 Dies ist meine erste Website. Hier werde ich vorerst nur Tests durchführen.
 
-[Italien](https://stu230485.github.com/pages/italy/)
+[Italien](/pages/italy/)
 
 ## Veröffentlichung von Code
 
