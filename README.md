@@ -2,7 +2,7 @@
 
 Dies ist meine erste Website. Hier werde ich vorerst nur Tests durchführen.
 
-[Italien](/italy.md)
+[Italia](/italy.md)
 
 ## Veröffentlichung von Code
 
