@@ -1,5 +1,5 @@
 layout: page
 title: "Posts"
-permalink: /pages/posts/
+permalink: /posts/
 
-[Erster Eintrag](/2021-04-15-hi.md)
+[Erster Eintrag](/_posts/2021-04-15-hi.md)
