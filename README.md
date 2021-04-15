@@ -2,7 +2,7 @@
 
 Dies ist meine erste Website. Hier werde ich vorerst nur Tests durchführen.
 
-[Italien](/Italien/Sprachkurse.md)
+[Italien](https://github.com/stu230485/pages/blob/main/Italien/Sprachkurse)
 
 ## Veröffentlichung von Code
 
