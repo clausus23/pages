@@ -2,7 +2,7 @@
 
 Dies ist meine erste Website. Hier werde ich vorerst nur Tests durchführen.
 
-[Italien](/Italien/Sprachkurs.md)
+[Italien](/Italien/Sprachkurse.md)
 
 ## Veröffentlichung von Code
 
