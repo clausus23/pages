@@ -1,8 +1,7 @@
-# Willkommen
+Hallo! Schön, dass Da da bist. Ich bin Finn, Informatikstudent aus Hamburg.
 
-Dies ist meine erste Website. Hier werde ich vorerst nur Tests durchführen.
-
-[Italien](/italy.md)
+Im letzten Jahr habe ich Italienisch gelernt und bin ich in Italien gewesen.
+Davon erzähle ich Dir hier: [Italien](/italy.md)
 
 ## Veröffentlichung von Code
 
