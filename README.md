@@ -20,6 +20,7 @@ else:
   print("Gerade")`
 
 - % = Modulo-Operator
+```
 
 ## Werdegang:
 1. Abitur am [Gymnasium Buckhorn](https://www.buckhorn.de/)
