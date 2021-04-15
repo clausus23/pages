@@ -1,4 +1,4 @@
-**Hallo! Schön, dass Da da bist. Ich bin Finn, Informatikstudent aus Hamburg.**
+**Hallo! Schön, dass Du da bist. Ich bin Finn, Informatikstudent aus Hamburg.**
 
 Im letzten Jahr habe ich Italienisch gelernt und bin ich in Italien gewesen.
 Davon erzähle ich Dir hier: [Italien](/italy.md)
